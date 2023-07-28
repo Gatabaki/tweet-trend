@@ -2,6 +2,6 @@
 
 This is a very small application that contains main and test folders.  
 The Main contains the application code.  
-The test contains test cases for practice.  
+The test contains test cases for practice projects.  
 It also contains pom.xml which has all dependencies and artifact name and version
 
