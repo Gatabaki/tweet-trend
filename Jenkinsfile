@@ -15,7 +15,6 @@ environment {
                 
         }
     }   
-    
     stage('SonarQube analysis') {
     environment {
       scannerHome = tool 'gatabaki-sonarqube-scanner'
@@ -26,6 +25,5 @@ environment {
     }
     }
   }
-}      
-
-    
+        
+}
