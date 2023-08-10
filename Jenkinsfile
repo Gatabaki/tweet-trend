@@ -24,6 +24,6 @@ environment {
       sh "${scannerHome}/bin/sonar-scanner"
     }
     }
-  }
+    }
         
 }
